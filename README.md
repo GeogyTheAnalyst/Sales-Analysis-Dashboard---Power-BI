@@ -1,4 +1,4 @@
-# Sales Dashboard
+# Sales Analysis Dashboard
 
 This project offered me the opportunity to showcases my ability to manipulate and derive insights from large datasets.
 
